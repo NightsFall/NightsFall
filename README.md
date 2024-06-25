@@ -1,4 +1,4 @@
-# Hi there, thanks for checking out my profile! 👋
+# 👋 Hi there, thanks for checking out my profile! 👋
 
 ## About Me
 Hi, I'm NightsFall my real name is Milan and im a self-taught hobbyist developer from The Netherlands which is a small european country that is known for it's windmills and stroopwafels.
@@ -29,4 +29,4 @@ These are the following skills which I know or are actively working on learning:
 - Lua
 
 #
-# Thanks for checking out my profile, I hope you get inspired by my creations and possibly use them!
+# 👋 Thanks for checking out my profile, I hope you get inspired by my creations and possibly use them! 👋
