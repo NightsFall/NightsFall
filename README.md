@@ -19,8 +19,13 @@ The [User Suspend Bot](https://market.ctrlpanel.gg/resources/resource/44-user-su
 ### 🔪 Slice Tab Mods
 A project that was made after the beta release of Slice Tab which is a way of showing ads which pays yourself, [Slice Tab Mods](https://github.com/SliceTab/Mods) allows you to customize your Slice Tab and make it personal to you! I've stopped working on the Slice Tab Mods ever since the Slice Tab released out of beta.
 
----
+## Skills
+These are the following skills which I know or are actively working on learning:
+- JavaScript
+- HTML
+- CSS
+- MySQL
+- Lua
 
-### Thanks for checking out my profile, I hope you get inspired by my creations and possibly use them!
-
----
+#
+# Thanks for checking out my profile, I hope you get inspired by my creations and possibly use them!
