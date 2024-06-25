@@ -24,6 +24,7 @@ These are the following skills which I know or are actively working on learning:
 - JavaScript
 - HTML
 - CSS
+- NodeJS
 - MySQL
 - Lua
 
