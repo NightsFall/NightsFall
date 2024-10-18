@@ -2,7 +2,7 @@
 
 ## About Me
 Hi, I'm NightsFall my real name is Milan and im a self-taught hobbyist developer from The Netherlands which is a small european country that is known for it's windmills and stroopwafels.
-Feel free to check our [my website](https://nightsfall.net) or send me a dm on discord (NightsFall) or email milan@nightsfall.net
+Feel free to check out [my website](https://nightsfall.net), send me a dm on discord (NightsFall) or email me at milan@nightsfall.net
 
 
 ## Projects
